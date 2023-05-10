@@ -1,1 +1,19 @@
-[README.md](https://github.com/One1Two2Three3Abc/One1Two2Three3Abc.github.io/files/11437089/README.md)
+# Welcome to the GBA emulator
+
+GBA Emulator is a free, online GBA emulator with 150+ Games to play!
+
+## Github GBA Game Website
+
+https://browncha023.github.io/GBA-Emulator-Online/
+
+## EIC Version
+
+https://gba.endinternetcensorship.repl.co/
+
+<br>
+
+### Emulator (Desc)
+Just a gba website, lol, with games
+
+# Controls (Below)
+![Alt text](Binaries/controls720.png?raw=true "Controls")
